@@ -5,7 +5,7 @@
 
 
 # Convolutional Network Architecture
-![Convolutional Network Architecture](https://github.com/JonathanCMitchell/TrafficSignClassification/blob/master/convnet_architecture.PNG "Convolutional Network Architecture")
+![Convolutional Network Architecture](https://github.com/JonathanCMitchell/TrafficSignClassification/blob/master/convnet_architecture_traffic_signs.jpg "Convolutional Network Architecture")
 
 #### Tools used
 * [Numpy](http://www.numpy.org/)
